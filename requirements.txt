@@ -121,7 +121,7 @@ pycparser==2.19
 pydot==1.4.1
 pyee==7.0.1
 pyglet==1.4.8
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.6
 pyjsparser==2.7.1
