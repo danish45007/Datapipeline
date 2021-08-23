@@ -72,7 +72,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
 jupyter-core==4.6.1
-jupyterlab==2.1.0
+jupyterlab==2.2.10
 jupyterlab-server==1.1.1
 jupyterthemes==0.20.0
 kaggle==1.5.6
